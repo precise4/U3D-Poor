@@ -38,8 +38,8 @@ const GENERAL_SETTINGS = {
 
 // These settings can be used to test different portions of the script. By default, all should be set to false.
 const DEBUG_SETTINGS = {
-    log_chat_messages: true,
-    disable_chat_output: true
+    log_chat_messages: false,
+    disable_chat_output: false
 }
 
 // DOM Selectors here for easier compatibility
