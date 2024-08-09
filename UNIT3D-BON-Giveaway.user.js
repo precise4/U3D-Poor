@@ -2,6 +2,7 @@
 // @name         UNIT3D BON Giveaway
 // @description  Enables the functionality to become poor
 // @version      1.1.6
+// @run-at       document-start
 // @license      GPL-3.0-or-later
 // @match        https://upload.cx/
 // @grant        none
